@@ -9,6 +9,15 @@
 
 ## More About Me:
 
+* Full Stack Web Developer
+  * Attending UCF Coding BootCamp
+
+* Retail Manager
+
+<br />
+
+## Connect With Me:
+
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ddsteig.github.io/react-portfolio/)
 [<img align="left" alt="Danny Steiger | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-steiger-bb900b1a9/)
 
