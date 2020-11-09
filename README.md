@@ -2,8 +2,8 @@
 
 ## Quick Facts
 
-- 🔭 I’m currently working on a social health food web app.
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on: A social health food web app.
+- 🌱 I’m currently learning: React
 - 📫 How to reach me: dannydsteiger@gmail.com
 - ⚡ Fun fact: I enjoy writing short stories, and poerty.
 
@@ -36,4 +36,4 @@
 
 <img align="left" alt="Dannys's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ddsteig&show_icons=true&hide_border=true&theme=nord" /> 
 <br />
-<br />
+![Profile views](https://gpvc.arturio.dev/ddsteig)
