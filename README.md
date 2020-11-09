@@ -33,7 +33,7 @@
 
 ### Github Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ddsteigs&show_icons=true&hide_border=true&theme=nord)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ddsteig&show_icons=true&hide_border=true&theme=nord)
 <br />
 ![Profile views](https://gpvc.arturio.dev/ddsteig)
 <br />
