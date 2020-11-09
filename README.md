@@ -7,6 +7,8 @@
 - 📫 How to reach me: dannydsteiger@gmail.com
 - ⚡ Fun fact: I enjoy writing short stories, and poerty.
 
+<br />
+
 ## More About Me:
 
 * Full Stack Web Developer
