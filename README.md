@@ -1,4 +1,4 @@
-### Danny Here! Welcome to my Repo! 👋
+# Danny Here! Welcome to my Repo! 👋
 
 ## Quick Facts
 
