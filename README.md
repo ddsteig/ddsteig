@@ -6,14 +6,13 @@
 - 🌱 I’m currently learning: MERN stack.
 - 📫 How to reach me: dannydsteiger@gmail.com
 - ⚡ Fun fact: I enjoy writing short stories, and poerty.
-- ⚡ New Info: Completed UCF Developer Bootcamp.
 
 <br />
 
 ## More About Me:
 
 * Full Stack Web Developer
-  * Attending UCF Coding BootCamp
+  * Completed UCF Coding BootCamp
 
 * Retail Manager
 
