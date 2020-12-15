@@ -3,9 +3,10 @@
 ## Quick Facts
 
 - 🔭 I’m currently working on: A social health food web app.
-- 🌱 I’m currently learning: React
+- 🌱 I’m currently learning: MERN stack.
 - 📫 How to reach me: dannydsteiger@gmail.com
 - ⚡ Fun fact: I enjoy writing short stories, and poerty.
+- ⚡ New Info: Completed UCF Developer Bootcamp.
 
 <br />
 
