@@ -3,7 +3,7 @@
 ## Quick Facts
 
 - 🔭 I’m currently working on: A social health food web app.
-- 🌱 I’m currently learning: MERN stack.
+- 🌱 I’m currently learning: Angular.
 - 📫 How to reach me: dannydsteiger@gmail.com
 - ⚡ Fun fact: I enjoy writing short stories, and poerty.
 
